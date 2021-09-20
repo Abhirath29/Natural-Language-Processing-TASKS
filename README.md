@@ -16,13 +16,13 @@ streamlit run NLP_TASKS_APP.py
 #### Tokenization
 ![](images/mlproj2.JPG)
 
-#### Entity Extraction with Spacy
+#### Sentiment Analysis
 ![](images/mlproj3.JPG)
 
-#### Sentiment Analysis
+#### summarize
 ![](images/mlproj4.JPG)
 
-#### Text Summarization with Sumy
+#### Named Entity Recognition
 ![](images/mlproj5.JPG)
 
 
