@@ -115,3 +115,4 @@ webencodings==0.5.1
 widgetsnbextension==3.5.1
 wincertstore==0.2
 xxhash==2.0.2
+python==3.7.12
