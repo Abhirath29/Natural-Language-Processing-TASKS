@@ -23,7 +23,7 @@ from urllib.request import urlopen
 from sumy.parsers.plaintext import PlaintextParser
 from sumy.nlp.tokenizers import Tokenizer
 from sumy.summarizers.lex_rank import LexRankSummarizer
-
+import nltk; nltk.download('punkt')
 
 # Function for Sumy Summarization
 def sumy_summarizer(docx):
